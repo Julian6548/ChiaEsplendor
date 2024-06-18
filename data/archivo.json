@@ -1,0 +1,14 @@
+[
+    {
+      "nombre": "Ácido Hialurónico",
+      "imagen": "./assets/img/portfolio/acido.webp",
+      "link": "#!",
+      "descripcion": "Encargar"
+    },
+    {
+      "nombre": "Mascarilla Facial",
+      "imagen": "./assets/img/portfolio/mascarillas.webp",
+      "link": "#!",
+      "descripcion": "Comprar"
+    }
+  ]
