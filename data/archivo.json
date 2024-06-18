@@ -9,6 +9,42 @@
       "nombre": "Mascarilla Facial",
       "imagen": "./assets/img/portfolio/mascarillas.webp",
       "link": "#!",
-      "descripcion": "Comprar"
+      "descripcion": "Encargar"
+    },
+    {
+      "nombre": "Vitamina B",
+      "imagen": "./assets/img/portfolio/vitaminb.webp",
+      "link": "#!",
+      "descripcion": "Encargar"
+    },
+    {
+      "nombre": "Tónico Facial",
+      "imagen": "./assets/img/portfolio/tonicfacial.png",
+      "link": "#!",
+      "descripcion": "Encargar"
+    },
+    {
+      "nombre": "Aclarador Facial",
+      "imagen": "./assets/img/portfolio/aclarador.png",
+      "link": "#!",
+      "descripcion": "Encargar"
+    },
+    {
+      "nombre": "Agua Micelar",
+      "imagen": "./assets/img/portfolio/micelar.webp",
+      "link": "#!",
+      "descripcion": "Encargar"
+    },
+    {
+      "nombre": "Protector Solar",
+      "imagen": "./assets/img/portfolio/protector.jpg",
+      "link": "#!",
+      "descripcion": "Encargar"
+    },
+    {
+      "nombre": "Crema Corporal",
+      "imagen": "./assets/img/portfolio/corporal.png",
+      "link": "#!",
+      "descripcion": "Encargar"
     }
   ]
